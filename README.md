@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer from China</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yz0000314)](https://github.com/anuraghazra/github-readme-stats)
-- 🔭 I’m currently working on **the 美赛**
+- 🔭 I’m currently working on ** 24fall application stat/biostat**
 
-- 🌱 I’m currently learning **numpy and pandas**
+- 🌱 I’m currently learning **deep learning**
 
 - 📫 How to reach me **1223692615@qq.com**
 
